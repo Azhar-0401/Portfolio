@@ -14,7 +14,7 @@ export const projectsData = [
         projectName: 'Anime Player',
         projectDesc: 'Seamless user experience and secure authentication, creating an immersive platform for anime enthusiasts.',
         tags: ['NextJS', 'NextAuth', 'MongoDB Atlas'],
-        code: '',
+        code: 'https://github.com/Azhar-0401/AnimePlayer',
         demo: 'https://www.shinnextream.in',
         image: six
     },
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'Innovation-Cell Website ',
         projectDesc: 'Worked with the Tech Team to develop and sustain the Nit Raipur Innovation Cell website.',
         tags: ['React', 'JavaScript', 'Vanilla CSSS'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://innovationcell.nitrr.ac.in/',
+        code: 'https://github.com/Azhar-0401/InnovationCell-Website',
+        demo: 'https://innovationnitrr.netlify.app/',
         image: seven
     },
     {
