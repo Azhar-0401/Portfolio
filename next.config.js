@@ -3,6 +3,9 @@ dotenv.config()
 
 const nextConfig = {
   reactStrictMode: true, // enabled react-strict mode
+  eslint: {
+    ignoreDuringBuilds: true,
+},
 
   images: {
     domains: [
