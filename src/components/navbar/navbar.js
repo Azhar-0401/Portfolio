@@ -111,7 +111,7 @@ function Navbar() {
 
                         <Fade left>
                             <Link
-                                href='/#education'
+                                href='/#resume'
                             >
                                 <div className="my-[2em] mx-auto rounded-[78.8418px] text-[#1D9BF0] bg-[#15202B] sm:w-[85%] w-[100%] h-[55px] sm:h-[60px] flex items-center justify-evenly px-[25px] sm:px-[30px] box-border border-2 border-[#1D9BF0] hover:text-[#15202B] hover:bg-[#1D9BF0] transition-colors">
                                     <HiDocumentText
