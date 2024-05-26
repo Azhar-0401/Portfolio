@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'DesiQNA23',
+        company: 'Desi QnA',
         jobtitle: 'SDE Intern',
         startYear: 'Jan 2024',
         endYear: 'March 2024'

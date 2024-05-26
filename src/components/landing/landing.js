@@ -103,9 +103,11 @@ function Landing() {
                         <h1>{headerData.name}</h1>
                         <Typed
                             strings={[
-                                'Backend Developer',
+                                'Fullstack Developer',
                                 'Frontend Developer',
-                                'Fullstack Developer']}
+                                'Backend Developer'
+                                
+                                ]}
                             typeSpeed={40}
                             backSpeed={50}
                             className={styles.typedHeader}
