@@ -19,7 +19,7 @@ function HomePage({ blogs }) {
       <Skills />
       <Projects />
       <Education />
-      <Blog blogs={blogs} />
+      {/* <Blog blogs={blogs} /> */}
       <Contacts />
     </>
   )
